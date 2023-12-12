@@ -1,3 +1,6 @@
+domain: infinite-trouble.github.io
+url: https://infinite-trouble.github.io
+baseurl: https://github.com/Infinite-Trouble/Infinite-Trouble.github.io/tree/main
 theme: jekyll-theme-minimal
 title: Infinite Trouble
 description: Que lo que
